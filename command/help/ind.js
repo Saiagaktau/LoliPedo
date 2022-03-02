@@ -11,7 +11,7 @@ exports.noregis = (pushname) =>{
 	return` 🙅‍♀️ Halo ${pushname} lu belum daftar. Ketik .daftar dulu`
 	}
 exports.regis = () =>{
-	return` Lu udah daftar 😒`
+	return` Lu udah daftar ⚔️`
 	}
 exports.eror = () =>{
 	return` Yah eror`
@@ -71,10 +71,10 @@ exports.menu = (prefix, salam, pushname) =>{
 │•INFO BOT•
 │VERSI : 0.02
 │FITUR : 230
-│CREATOR : APRILIA
+│CREATOR : ɪᴹ᭄✿ 𝐟𝐢𝐫𝐚𝐚
 │MODEL SCRIPT : BETA
 │SUBSCRIBE CHANNEL BOT INDO
-│https://www.youtube.com/c/BOTINDO
+│ANJAY ALOK..🗿
 ╰───────────────┈ ⳹
 
 ╭─⬣ *List Menu*
